@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balanasia
 - 👀 I’m interested in broadening my coding horizons.
-- 🌱 I’m currently learning XML, JSON, .NET, MongoDB, Python, C#
+- 🌱 I’m currently learning Python, C#, XML, JSON, .NET, MongoDB, SQL, AWS
 - 💞️ I’m looking to collaborate on anything! I want to get more programming experience.
 - 📫 How to reach me: email.
 
