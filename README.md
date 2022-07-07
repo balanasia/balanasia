@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balanasia
 - 👀 I’m actively searching for employment.
-- 🌱 I’m currently learning Python, C#, XML, JSON, .NET, MongoDB, SQL, AWS, Javascript, JQuery, Node.js
+- 🌱 I’m currently learning Python, C#, XML, JSON, .NET, MongoDB, SQL, AWS, Javascript, JQuery, Node.js, React.js
 - 💞️ I’m looking to collaborate on anything! I want to get more programming experience.
 
 <!---
